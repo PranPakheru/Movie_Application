@@ -1,0 +1,53 @@
+.headerNav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.navBarHead {
+  background-color: #8062d6;
+  font-size: 25px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.totalItems {
+  height: 100% !important;
+}
+
+.chipBar {
+  display: flex;
+
+  align-items: center;
+  flex-wrap: wrap;
+
+  justify-content: start;
+}
+
+.displayMovie {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.lowerDiv {
+  height: 68vh !important;
+}
+
+.paginationDivGenre {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #e5e5e5;
+  width: max-content;
+  margin-left: 38%;
+  border-radius: 10px;
+}
+
+.loaderData {
+  color: azure;
+  text-align: center;
+  margin-top: auto;
+  margin-left: auto;
+  height: 65vh;
+}

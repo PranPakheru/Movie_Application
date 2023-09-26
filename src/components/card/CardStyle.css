@@ -1,0 +1,20 @@
+
+.cardRating{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    align-items: center;
+
+}
+
+.posterImage{
+    width: 200px !important;
+    
+}
+
+.posterImage:hover{
+    opacity: 0.4;
+    transition: ease-in-out;
+    transition-delay: 200ms;
+}
+

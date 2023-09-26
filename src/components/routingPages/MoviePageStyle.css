@@ -1,0 +1,20 @@
+.backdropImage {
+  margin: 10px;
+}
+
+.moviePageBanner {
+  margin: 10px;
+}
+
+.movieImg {
+  display: flex;
+  justify-content: center;
+}
+
+.movieTitle {
+  color: white;
+}
+
+.movieContent {
+  margin: 5px;
+}

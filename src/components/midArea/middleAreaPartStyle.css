@@ -1,0 +1,26 @@
+
+.middlePart{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.paginationDiv{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex !important;
+    justify-content: center !important;
+    background-color: #e5e5e5;
+    width: max-content;
+    margin-left: 38%;
+    border-radius: 10px;
+}
+
+.loaderData{
+    color: azure;
+    text-align: center;
+    margin-top: 40% !important;
+    margin-left: auto;
+}

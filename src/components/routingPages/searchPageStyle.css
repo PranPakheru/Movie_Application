@@ -1,0 +1,41 @@
+.headerNav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.navBarHead {
+  background-color: #8062d6;
+  font-size: 25px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+.displayMovie {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.searchPage {
+  display: block;
+}
+
+.lowerDiv {
+  height: 80vh !important;
+}
+
+.loaderData {
+  color: azure;
+  text-align: center;
+  margin-top: auto;
+  margin-left: auto;
+}
